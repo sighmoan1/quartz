@@ -11,4 +11,4 @@ title: Four risks of product
 
 # Usable - can people use it? *design*
 
- [[content/index|index]]
+[[content/index|index]]
