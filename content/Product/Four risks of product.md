@@ -2,6 +2,7 @@
 title: Four risks of product
 ---
 # Valuable - will people choose to use it? *product*
+
 * Intrinsic motivators
 * Extrinsic motivators
 
@@ -11,4 +12,3 @@ title: Four risks of product
 
 # Usable - can people use it? *design*
 
-[[content/index|index]]
