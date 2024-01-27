@@ -1,4 +1,6 @@
-
+---
+title: Cynefin framework
+---
 The Cynefin framework is a sense-making framework created by Dan Snowden. You can [read about it on wikipedia](https://en.wikipedia.org/wiki/Cynefin_framework)
 
 ![[Pasted image 20230723151750.png]]
