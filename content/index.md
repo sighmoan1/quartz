@@ -5,10 +5,4 @@ This is the index page
 
 [[Cynefin Framework]]
 
-
 [[Being and forgetting]]
-
-
-[[CSS]]
-
-
